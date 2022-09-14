@@ -1,4 +1,0 @@
-# test.duckmouse.no
-
-🐤
-
